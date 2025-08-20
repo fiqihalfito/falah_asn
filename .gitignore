@@ -8,3 +8,5 @@
 .env
 .env.production
 .env.development
+
+README-progress.md
